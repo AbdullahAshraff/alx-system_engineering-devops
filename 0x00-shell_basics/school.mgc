@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -al . .. /boot
+0 string SCHOOL this is a school file
+!:mime text/school
